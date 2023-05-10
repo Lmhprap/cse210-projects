@@ -1,3 +1,7 @@
+//Robert A Phelps
+//CSE210
+//Unit 02 Develop Journal Program
+
 using System;
 using System.IO;
 
