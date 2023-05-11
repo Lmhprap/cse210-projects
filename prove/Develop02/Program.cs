@@ -62,7 +62,7 @@ class Program
                     // Console.WriteLine("Success Choice 4!");
                     break;
                 case 5:
-                    // Quite
+                    // Quit
                     Console.WriteLine("\nThank you for using the Journal App!\n");
                     break;
                 default:
