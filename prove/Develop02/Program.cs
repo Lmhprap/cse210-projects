@@ -1,6 +1,7 @@
 //Robert A Phelps
 //CSE210
 //Unit 02 Develop Journal Program
+//Exceeded the core by adding the Json and the .txt automated extension to the file
 
 using System;
 using System.IO;
