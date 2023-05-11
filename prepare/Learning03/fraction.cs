@@ -1,3 +1,7 @@
+//Robert A. Phelps
+//CSE210
+//Learning03
+
 using System;
 
 public class Fraction
