@@ -16,7 +16,7 @@ class Program
         scripture.LoadScriptures();
         Word word = new Word();
 
-        Console.Write("\n**** Welcome to the Scripture Memorizer App ****\n");
+        Console.Write("\n**** Welcome to the Scripture Memorizer Tool ****\n");
 
         int userChoice = 0;
         // Console.WriteLine(userChoice);
@@ -67,12 +67,11 @@ class Program
         string choices = $@"
 ===============================================
 Please select from one of the following choices:
-
-1. Display availble scriptures references.
+1. Display all availble scripture references.
 2. Randomly select scripture to memorize.
 Q. Quit
 ===============================================
-What would you like to do?  ";
+Please select what you would like to do?  ";
 
         Console.Write(choices);
 
