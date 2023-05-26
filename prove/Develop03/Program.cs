@@ -66,7 +66,8 @@ class Program
 
         string choices = $@"
 ===============================================
-Please select one of the following choices:
+Please select from one of the following choices:
+
 1. Display availble scriptures references.
 2. Randomly select scripture to memorize.
 Q. Quit
