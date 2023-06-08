@@ -40,10 +40,16 @@ public class ListingActivity : Activity
     {
         Console.WriteLine();  //insert blank line to start
         var question = GetRandomPrompt();
+
+        var color = Console.ForegroundColor;
+        Console.ForegroundColor = ConsoleColor.DarkRed;
+
         Console.WriteLine("\nList as many responses as you can to the following prompt:");
         Console.WriteLine($"\n--- {question} ---");
         CountDown(8);
         Timer(seconds);
+        Console.ForegroundColor = color;
+        
     }
     public void Timer(int seconds)
     {
