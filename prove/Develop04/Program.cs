@@ -2,6 +2,10 @@
 //CSE210
 //Inheritance Development Project
 
+// Program development up and above the assignment:  I have added a "Change Color" 
+// to Dark Red to my ListingActivity and my ReflectingActivity so when you are prompted
+// the prompt will show in Dark Red.
+
 using System;
 using System.Diagnostics;
 
