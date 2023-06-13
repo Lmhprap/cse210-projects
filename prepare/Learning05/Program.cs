@@ -9,7 +9,7 @@ class Program
         // the class inherits from Shape
         List<Shape> shapes = new List<Shape>();
 
-        Square s1 = new Square("Blue", 3);
+        Square s1 = new Square("Blue", 5);
         shapes.Add(s1);
 
         Rectangle s2 = new Rectangle("Green", 4, 5);
