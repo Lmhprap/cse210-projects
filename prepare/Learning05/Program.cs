@@ -9,13 +9,13 @@ class Program
         // the class inherits from Shape
         List<Shape> shapes = new List<Shape>();
 
-        Square s1 = new Square("Red", 3);
+        Square s1 = new Square("Blue", 3);
         shapes.Add(s1);
 
-        Rectangle s2 = new Rectangle("Blue", 4, 5);
+        Rectangle s2 = new Rectangle("Green", 4, 5);
         shapes.Add(s2);
 
-        Circle s3 = new Circle("Green", 6);
+        Circle s3 = new Circle("Purple", 6);
         shapes.Add(s3);
 
         foreach (Shape s in shapes)
