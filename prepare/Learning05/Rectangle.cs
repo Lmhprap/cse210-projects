@@ -1,3 +1,7 @@
+//Robert A. Phelps
+//CSE210
+//Learning05
+
 public class Rectangle : Shape
 {
     private double _length;
