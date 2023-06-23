@@ -1,0 +1,3 @@
+0
+Simple Goal:; Test Goal; Test; 10; False
+Simple Goal:; Test Goal; Test; 10; False
