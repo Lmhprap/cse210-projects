@@ -5,12 +5,12 @@ public class MainMenu : Menu
     // Attributes
     private new string _menu = $@"
              Main Menu Options
-===========================================
+******************************************
 Please select one of the following options:
 1. Play Game
 2. How to Play
 3. Quit
-===========================================
+******************************************
 Select an option from the menu:  ";
 
     private string _welcome = @"
@@ -22,7 +22,7 @@ Select an option from the menu:  ";
     private string _goodbye = @"
 *******************************************
 ***                                     ***
-***    Thank you for playing Hangman!   ***
+***        Thank you for playing        ***
 ***                                     ***
 *******************************************";
 

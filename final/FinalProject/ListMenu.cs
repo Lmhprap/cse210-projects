@@ -5,13 +5,13 @@ public class ListMenu : Menu
     // Attributes 
     private new string _menu = $@"
                 List Options
-===========================================
+******************************************
 Your list Options are:
 1. Colors
 2. Sports
 3. Seasons
 4. Back to Game Menu
-===========================================
+******************************************
 Which list would you like to use?  ";
 
     // Constructors
