@@ -30,8 +30,7 @@ public class Dictionary
             string entries = line;
             AddWord(entries);
         }
-        // test to see if words loaded into word dictionary list
-        // _dictionary.ForEach(Console.WriteLine);
+    
 
     }
 }
