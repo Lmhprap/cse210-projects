@@ -6,14 +6,15 @@ public class ScoreTimed : ScoringRules
     // Attributes
     private int score;
 
-    // Constructors
-
-
-    // Methods
+   
     public override int CalculateScore(int numGuesses, List<string> letters, string word)
     {
         int totalScore = 0;
+<<<<<<< HEAD
    
+=======
+        
+>>>>>>> main
         return totalScore;
     }
     public override void ShowScore()
