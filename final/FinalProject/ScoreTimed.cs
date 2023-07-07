@@ -10,11 +10,7 @@ public class ScoreTimed : ScoringRules
     public override int CalculateScore(int numGuesses, List<string> letters, string word)
     {
         int totalScore = 0;
-<<<<<<< HEAD
-   
-=======
         
->>>>>>> main
         return totalScore;
     }
     public override void ShowScore()
