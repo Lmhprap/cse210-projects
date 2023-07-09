@@ -1,3 +1,7 @@
+//Robert A Phelps
+//CSE210
+//FINAL PROJECT
+
 using System;
 
 public class Dictionary
