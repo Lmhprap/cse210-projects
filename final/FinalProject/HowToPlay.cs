@@ -1,4 +1,6 @@
-using System;
+//Robert A Phelps
+//CSE210
+//FINAL PROJECTusing System;
 
 public class HowToPlay
 {
