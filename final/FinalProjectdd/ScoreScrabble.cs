@@ -16,9 +16,9 @@ public class ScoreScrabble : ScoringRules
             {"n", 1},
             {"r", 1},
             {"t", 1},
-            {"l", 1},
-            {"s", 1},
-            {"u", 1},
+            {"l", 2},
+            {"s", 2},
+            {"u", 2},
             {"d", 2},
             {"g", 2},
             {"b", 3},
@@ -31,8 +31,8 @@ public class ScoreScrabble : ScoringRules
             {"w", 4},
             {"y", 4},
             {"k", 5},
-            {"j", 8},
-            {"x", 8},
+            {"j", 9},
+            {"x", 9},
             {"q", 10},
             {"z", 10}
         };
