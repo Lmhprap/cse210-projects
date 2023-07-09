@@ -1,12 +1,8 @@
 //Robert A Phelps
 //CSE210
-<<<<<<< HEAD
-//FINAL PROJECTusing System;
-=======
 //FINAL PROJECT
 
 using System;
->>>>>>> main
 
 public class HowToPlay
 {
