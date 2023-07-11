@@ -10,18 +10,21 @@ public class HowToPlay
     private string _howToPlay = $@"
 HOW TO PLAY HANGMAN
 ==========================================
-The Game
-Hangman is a classic word game in which you must guess the secret word one letter at a time.
-At the start of a game, you are presented with an set of blank lines representing the missing 
-letters of the word. Each correct guess of a letter fills in the blanks.  Each incorrect guess 
-of a letter, another part of the hangedman is drawn.The aim of the game is to find the hidden 
+How to Play the Game!
+Hangman (word guessing) is a classic word game in which you must guess the secret word one letter 
+at a time.  At the start of a game, you are presented with an set of blank lines representing the 
+missing letters of the word. Each correct guess of a letter fills in the blanks.  Each incorrect 
+guess of a letter, another part of the hangedman is drawn.The aim of the game is to find the hidden 
 word before the hangedman is fully drawn.
+
 * Guess one letter at a time to reveal the secret word.
 * Each incorrect guess adds another part to the hangedman. 
-* You only get 8 incorrect guesses.
+* You only get 7 incorrect guesses.
 ==========================================
-Now you have read the Hangman rules, why not play a game!
-*** Press Enter to return to menu ***";
+Now that you know the Hangman rules, PLEASE HELP ME
+              let's play a game!
+              
+    *** Press Enter to return to menu ***";
 
     public void GetInstructions()
     {

@@ -9,12 +9,12 @@ public class GameMenu : Menu
     // Attributes 
     private new string _menu = $@"
                 Game Options
-******************************************
+==========================================
 Your Game Options are:
 1. Random Words
-2. Pick your word topic
+2. Pick your topic
 3. Back to Main Menu
-******************************************
+==========================================
 Which game would you like to play?  ";
 
     // Constructors

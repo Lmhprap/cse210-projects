@@ -21,7 +21,7 @@ Select a number the menu:  ";
 *******************************************
 ***                                     ***
 ***          Welcome to Hangman         ***
-***   +++Save me from the Hangman +++   ***
+***   +++ Save me from the Hangman +++  ***
 ***                                     ***
 *******************************************";
     private string _goodbye = @"
