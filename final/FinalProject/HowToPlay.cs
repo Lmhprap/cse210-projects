@@ -21,7 +21,8 @@ word before the hangedman is fully drawn.
 * Each incorrect guess adds another part to the hangedman. 
 * You only get 7 incorrect guesses.
 ==========================================
-Now that you know the Hangman rules, PLEASE HELP ME
+
+Now that you know the Hangman rules, PLEASE HELP ME!
               let's play a game!
               
     *** Press Enter to return to menu ***";
