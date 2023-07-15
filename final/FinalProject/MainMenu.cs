@@ -25,7 +25,7 @@ Select a number the menu:  ";
 ***                                     ***
 *******************************************";
     private string _goodbye = @"
-*******************************************
+******************************************* 
 ***                                     ***
 ***        Thank you for playing.       ***
 ***      Please try you luck again!!    ***
